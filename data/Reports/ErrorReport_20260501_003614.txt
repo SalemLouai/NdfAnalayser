@@ -1,0 +1,7 @@
+Error Report - Run ID: 20260501_003614
+Generated: 2026-05-01 00:39:45
+--------------------------------------------------------------------------------
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001649.jpg
+Error: The value was extracted from the document, but cannot be normalized to Time. Consider accessing the `DocumentField.Content` property for a textual representation of the value.
+

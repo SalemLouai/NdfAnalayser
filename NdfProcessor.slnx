@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NdfProcessor.Application/NdfProcessor.Application.csproj" />
+    <Project Path="src/NdfProcessor.Console/NdfProcessor.Console.csproj" />
+    <Project Path="src/NdfProcessor.Domain/NdfProcessor.Domain.csproj" />
+    <Project Path="src/NdfProcessor.Infrastructure/NdfProcessor.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NdfProcessor.Application.Tests/NdfProcessor.Application.Tests.csproj" />
+    <Project Path="tests/NdfProcessor.Domain.Tests/NdfProcessor.Domain.Tests.csproj" />
+    <Project Path="tests/NdfProcessor.Infrastructure.Tests/NdfProcessor.Infrastructure.Tests.csproj" />
+  </Folder>
+</Solution>

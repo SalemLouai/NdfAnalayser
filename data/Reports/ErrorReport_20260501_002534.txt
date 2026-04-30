@@ -1,0 +1,464 @@
+Error Report - Run ID: 20260501_002534
+Generated: 2026-05-01 00:28:50
+--------------------------------------------------------------------------------
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000610.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 08262a75-7985-4e8f-9c52-87d4671933d7
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:02 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000823.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 3065e654-8ddc-4dc0-bbaa-d11fa30552f2
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:41 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000850.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: b9f60534-5f8c-468b-ba3e-5bbafd5451e3
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:43 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000918.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 33b34e24-f920-4cf8-9cdd-e941b6a6c9ef
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:46 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000941.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 9309f067-cffe-40f0-a292-96bacb152912
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:49 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501000958.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: cead5a03-b6ad-4012-9ee2-7111c05afef7
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:51 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001020.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 096375d9-7d80-43e4-b4de-fb4f490799ce
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:53 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001049.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 2bfa4376-ffbc-4273-8918-e96bc2f0827c
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:55 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001110.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 7a1cac02-8f25-4c12-a6b6-aae502ee2768
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:57 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001147.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: b4514f35-4ec6-48e0-ba1b-b58f8d33e800
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:26:59 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001217.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: b1645cdf-d6c8-4b00-945f-cf532039b0b2
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:27:09 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001233.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 41a21d01-c990-4d1d-92ce-c794e90b807a
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:27:12 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001255.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 72929f4b-bf80-418a-bab2-a7039cfcbd60
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:27:14 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001310.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: be0fbc36-3d49-4552-97f9-ee3a6ac00ba8
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:27:16 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001427.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 32e21da9-87b2-4ad3-8f18-850396b6e542
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:02 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001435.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: f6076856-3d9c-46d7-9120-e3854eabc25d
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:06 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001503.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 79709543-2b88-4d1f-ad94-89cc43740d4b
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:09 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001538.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: a9cd3540-ceb5-4dfc-8bb2-1796dcc6c414
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:16 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001557.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: ba7aff49-5518-4333-a229-bf7ef8b298f5
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:18 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001614.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 448c19bd-1eae-4c1b-8691-c49d7e8c975a
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:39 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001628.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 86d4bad8-582f-401f-861a-6ae80ef32e16
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:42 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001649.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 366bc6b6-ca38-46d0-9ac9-8b50365cce62
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:45 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+
+File: C:\chatgbt\NdfAnalyser\data\ToProcess\IMG20260501001702.jpg
+Error: Invalid request.
+Status: 400 (Bad Request)
+ErrorCode: InvalidRequest
+
+Content:
+{"error":{"code":"InvalidRequest","message":"Invalid request.","innererror":{"code":"InvalidContentLength","message":"The input image is too large. Refer to documentation for the maximum file size."}}}
+
+Headers:
+ms-azure-ai-errorcode: REDACTED
+x-ms-error-code: REDACTED
+apim-request-id: 56a6fb0f-4e36-42e7-a276-03e7f5f98a42
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+x-ms-region: REDACTED
+Date: Thu, 30 Apr 2026 22:28:49 GMT
+Content-Length: 201
+Content-Type: application/json; charset=utf-8
+
+

@@ -1,0 +1,7 @@
+# Keep project settings.json in git, but ignore local overrides
+settings.local.json
+
+# Ignore session transcripts and temporary files
+transcripts/
+plans/
+*.tmp

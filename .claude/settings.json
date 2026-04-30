@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(dotnet *)",
+      "Bash(git *)",
+      "Bash(az *)",
+      "Bash(terraform *)",
+      "Bash(npm *)",
+      "Bash(node *)",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep"
+    ],
+    "defaultMode": "default"
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "comment": "Auto-format C# files after edits",
+            "command": "jq -r '.tool_input.file_path // .tool_response.filePath' | { read -r f; if [[ \"$f\" =~ \\.cs$ ]]; then dotnet format --include \"$f\" 2>/dev/null || true; fi; }",
+            "statusMessage": "Formatting C# code..."
+          }
+        ]
+      }
+    ]
+  },
+  "env": {
+    "DOTNET_CLI_TELEMETRY_OPTOUT": "1",
+    "DOTNET_SKIP_FIRST_TIME_EXPERIENCE": "1",
+    "ASPNETCORE_ENVIRONMENT": "Development"
+  },
+  "attribution": {
+    "commit": "Co-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>",
+    "pr": "Generated with [Claude Code](https://claude.com/claude-code)"
+  },
+  "includeGitInstructions": true,
+  "respectGitignore": true,
+  "cleanupPeriodDays": 30,
+  "model": "opus"
+}
